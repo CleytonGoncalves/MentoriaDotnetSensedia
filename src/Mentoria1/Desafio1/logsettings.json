@@ -1,0 +1,12 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Trace"
+    }
+  },
+  "Serilog": {
+    "MinimumLevel": {
+      "Default": "Verbose"
+    }
+  }
+}
